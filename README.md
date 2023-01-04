@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Divakar Bhat
 - 👀 I’m interested in Machine Learning, Python, Java and Javascript
-- 🌱 I’m currently learning machine Learning and Python
+- 🌱 I’m currently learning Machine Learning and Python
 - 💞️ I’m looking to collaborate on machine Learning
 - 📫 You can reach me on divakarhvd@gmail.com
 
